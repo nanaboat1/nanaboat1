@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nanaboat1
 - 👀 I’m interested in Software Engineering and Web Development
-- 🌱 I’m currently learning Typescript and React
+- 🌱A Software engineer , interested in quantitative finance.
 
 
 <!---
